@@ -22,9 +22,9 @@ A função Lambda responsável pela criação de URLs encurtadas realiza as segu
   ```sh
 {
   "body": {
-    "originalUrl": "https://exemplo.com",
-    "expirationTime": "172800" // Tempo em segundos (2 dias)
-  }
+      "originalUrl": "https://exemplo.com",
+      "expirationTime": "172800" // Tempo em segundos (2 dias)
+    }
 }
   ```
 
