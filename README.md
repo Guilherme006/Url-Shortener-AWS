@@ -3,6 +3,7 @@
 Este projeto implementa um serviço de encurtador de URLs usando AWS Lambda e AWS S3. O serviço contém duas funcionalidades principais:
 
 **1. Criar uma URL encurtada**
+
 **2. Redirecionar para a URL original**
 
 ### Funcionalidades
